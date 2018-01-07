@@ -62,3 +62,7 @@ h3 {
 .experiences p {
   margin: 0;
 }
+
+.experiences hr {
+  margin: 2em 0;
+}
